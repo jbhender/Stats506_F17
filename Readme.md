@@ -1,1 +1,3 @@
-# Stats 506, Fall 2017\n
+# Stats 506, Fall 2017
+
+
